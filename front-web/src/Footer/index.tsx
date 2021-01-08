@@ -13,7 +13,7 @@ function Footer() {
            <a href="https://www.linkedin.com/school/devsuperior/" target="_new">
                 <LinkedinIcon />
            </a>
-           <a href="https://www.instagram.com">
+           <a href="https://www.instagram.com/h_borbaa/?hl=pt-br" target="_new">
                 <InstagramIcon />
 
            </a>
